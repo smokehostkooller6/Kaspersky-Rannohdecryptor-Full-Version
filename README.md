@@ -227,4 +227,4 @@ This repository serves as the official landing page for Kaspersky RannohDecrypto
 **Get the most recent version of Kaspersky RannohDecryptor today!**
 
 ---
-**Last updated:** 2026-10-25 17:28:49 UTC
+**Last updated:** 2026-10-25 20:33:28 UTC
